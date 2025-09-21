@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "downloadUrl": "https://github.com/your-username/your-repo/releases/download/v1.0.3/yourapp.apk",
   "changelog": "🔹 Critical security fix\n🔹 Must update to continue using the app",
   "forceUpdate": false
